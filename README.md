@@ -1,16 +1,16 @@
 # AI-Generated Marketing Slogans
 
-This repository contains a collection of AI-generated marketing slogans. These slogans are provided under a custom Creative Commons Attribution 4.0 International Public License with Restricted Patent and Trademark Rights (CC BY 4.0 + RPTR).
+This repository contains a collection of AI-generated marketing slogans. These slogans are provided under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
 
 ## License
 
-The slogans in this repository are licensed under the Creative Commons Attribution 4.0 International Public License with Restricted Patent and Trademark Rights (CC BY 4.0 + RPTR). You are free to share and adapt these slogans, even for commercial purposes, as long as you give appropriate credit. However, patent rights are restricted, and the slogans may not be trademarked by any entity.
+The slogans in this repository are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). You are free to share these slogans, but you must give appropriate credit, may not use the material for commercial purposes, and may not distribute modified versions of the slogans.
 
 See the [LICENSE](LICENSE) file for more details.
 
 ## Usage
 
-Feel free to use these slogans in your marketing campaigns, projects, and more. Contributions are welcome!
+Feel free to use these slogans in your non-commercial marketing campaigns, projects, and more. Contributions are welcome, but please note that any derived works must also comply with the CC BY-NC-ND 4.0 license terms.
 
 ## Slogans
 
